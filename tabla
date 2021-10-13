@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Galgo</title>
+</head>
+
+<body>   
+<table border=5>
+  <tr>
+    <th>Foto</th>
+    <th>enlace</th>
+  </tr>
+  <tr>
+    <td><img src= "/home/alumnotd/Imágenes/galgo.jpg" width="250 px"></td>
+    <td><a href= "https://es.wikipedia.org/wiki/Galgo_espa%C3%B1ol"> pulsa aquí para más información</a></td>
+  </tr>
+<tr>
+    <td><img src= "/home/alumnotd/Imágenes/pastor aleman.jpg" width="250 px"></td>
+    <td><a href= "https://es.wikipedia.org/wiki/Pastor_alem%C3%A1n"> pulsa aquí para más información</a></td>
+  </tr>
+<tr>
+    <td><img src= "/home/alumnotd/Imágenes/pastor belga.jpg" width="250px"></td>
+    <td><a href= "https://es.wikipedia.org/wiki/Pastor_belga"> pulsa aquí para más información</a></td>
+  </tr>
+</table>
+</body>
+</html>
+
+
